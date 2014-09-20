@@ -1,4 +1,4 @@
 ScrabbleScoreCalculator
 =======================
 
-Maximum scrabble score is calculated based on the words which may be formed from the user's input
+Maximum scrabble score is calculated based on words stored in a hash table which may be formed from user's input 
